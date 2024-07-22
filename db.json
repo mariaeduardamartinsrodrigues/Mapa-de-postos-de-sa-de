@@ -1,0 +1,779 @@
+{
+  "usuarios": [
+    {
+      "posto": "Barreiro de Cima",
+      "endereco": "Praça Modestino Sales Barbosa, 100 - Flávio Marques Lisboa",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Bonsucesso",
+      "endereco": "Rua Dr. Cristiano Resende, 1.875 - Bonsucesso",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": " Carlos Renato Dias ",
+      "endereco": "Rua José Gonçalves, 375 -  Barreiro",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Diamante / Teixeira Dias",
+      "endereco": "Rua Maria Marcolina de Souza, 40 - Teixeira Dias",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Dr. José Domingos",
+      "endereco": "Rua Maria de Lourdes Manso, 80 - Bairro das Indústrias",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Eduardo Mauro de Araújo (Miramar)",
+      "endereco": "Rua Eridano, 540 - Miramar",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Francisco Gomes Barbosa (Tirol)",
+      "endereco": "Avenida Nélio Cerqueira, 15 - Tirol",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Independência",
+      "endereco": "Rua Maria Antonieta Ferreira, 151 - Independência",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Lisandra Angélica David Justino / Túnel de Ibirité",
+      "endereco": "Rua Waldir César Branquinho, 111 - Túnel de Ibirité",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Maria Madalena Teodoro - Lindeia",
+      "endereco": "Rua Flor de Maio, 172 - Lindeia",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Mangueiras",
+      "endereco": "Rua Chafariz, 04 - Petrópolis",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Milionários",
+      "endereco": "Rua dos Cruzeirenses, 30 - Milionários",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Pilar/Olhos D'Agua",
+      "endereco": "Rua São Pedro da Aldeia, 55 - Pilar",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Regina",
+      "endereco": "Rua Aristolino Basílio de Oliveira, 467 - Regina",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Santa Cecília",
+      "endereco": "Rua Paulo Duarte, 280 - Santa Cecília",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Urucuia",
+      "endereco": "Rua Nelson de Paula Pires, 325 - Pongelupe",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Vale do Jatobá",
+      "endereco": "Rua Domício Gabriel de Vasconcelos, 100 - Vale do Jatobá",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Vila Cemig",
+      "endereco": "Rua Coletivo, 68 - Vila Cemig",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Vila Pinho",
+      "endereco": "Rua Otaviano de Carvalho, 174 - Vila Pinho",
+      "regional": "Barreiro"
+    },
+    {
+      "posto": "Cafezal",
+      "endereco": "Rua Bela Vista, 30 Vila Cafezal - Serra",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Carlos Chagas ",
+      "endereco": "Avenida Francisco Sales, 1.715 - Santa Efigênia",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Conjunto Santa Maria",
+      "endereco": "Rua Pastor Benjamim Maia, 57 - Apia",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Menino Jesus",
+      "endereco": "Rua Congonhas, 692 -  Santo Antônio",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Nossa Senhora Aparecida",
+      "endereco": "Nossa Senhora Aparecida",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Nossa Senhora de Fátima",
+      "endereco": "Rua Corinto, 450 - Serra",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Oswaldo Cruz",
+      "endereco": "Rua Uberaba, esquina com Augusto de Lima - Barro Preto",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Padre Tarcísio",
+      "endereco": "Rua Coronel Jorge Davis, 500 - São Lucas",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "São Miguel Arcanjo",
+      "endereco": "Rua Nossa Senhora de Fátima, 2.240 - Fazendinha",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Santa Lúcia",
+      "endereco": "Rua Murilo Moraes de Andrade, 125 - Santa Lúcia",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Santa Rita de Cássia",
+      "endereco": "Rua Cristina, 961 - São Pedro",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Tia Amância",
+      "endereco": "Rua Iraí, 248 - Coração de Jesus",
+      "regional": "Centro-Sul"
+    },
+    {
+      "posto": "Alto Vera Cruz",
+      "endereco": "Rua General Osório , 959 - Alto Vera Cruz",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Boa Vista",
+      "endereco": "Rua Guruá, 833 - Boa Vista",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Granja de Freitas",
+      "endereco": "São Vicente, 735 - Granja de Freitas",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Horto - Anexo",
+      "endereco": "Rua Monte Alverne, 151 - Bairro Floresta",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Mariano de Abreu",
+      "endereco": "Rua Barreiro, 1.007 - Casa Branca",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Marco Antônio Menezes",
+      "endereco": "Rua Petrolina, 869/871 - Horto",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Novo Horizonte",
+      "endereco": "Rua Pedro Alexandrino de Mendonça, 127 - Taquaril",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Paraíso",
+      "endereco": "Avenida Mém de Sá, 1.001 - Paraíso",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Saúde Pompéia",
+      "endereco": "Rua Leopoldo Gomes, 440 - Pompéia",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Santa Inês",
+      "endereco": "Rua Itumirim, 50 - Santa Inês",
+      "regional": "Leste"
+    },
+    {
+      "posto": "São Geraldo",
+      "endereco": "Avenida Itaituba, 318 - São Geraldo",
+      "regional": "Leste"
+    },
+    {
+      "posto": "São José Operário",
+      "endereco": "Rua Simão Pereira, 73 - Nova Vista",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Taquaril",
+      "endereco": "Rua Desembargador Bráulio, 2.200 - Taquaril",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Taquaril - Anexo",
+      "endereco": "Rua Gil Eanes, 612 - Taquaril",
+      "regional": "Leste"
+    },
+    {
+      "posto": "Vera Cruz",
+      "endereco": "Praça Padre Léo Verheyen, 36 (Antiga Praça Pedro Lessa) - Vera Cruz",
+      "regional": "Leste"
+    },
+    {
+      "posto": " Alcides Lins",
+      "endereco": "Rua Panema, 275 - Concórdia",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Cachoeirinha",
+      "endereco": "Rua Borborema, 1.325 - Cachoeirinha",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Capitão Eduardo",
+      "endereco": "Rua Ângela Benareges, 10 - Capitão Eduardo",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Cidade Ozanan",
+      "endereco": "Rua Dr. Furtado de Menezes, 610 - Ipiranga",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Conjunto Paulo VI",
+      "endereco": "Rua da Almas, 122 – Conjunto Paulo VI",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Dom Joaquim",
+      "endereco": "Avenida Joaquim José Diniz, 855 - Fernão Dias",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Efigênia Murta de Figueiredo",
+      "endereco": "Rua Serra do Cipó, 170 - Conjunto Ribeiro de Abreu",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Fábio Correa Lima (antigo São Gabriel",
+      "endereco": "Rua Ilha de Malta, 353 - São Gabriel",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": " Gentil Gomes",
+      "endereco": "Rua Manoel Passos, 580 - Santa Cruz",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Goiânia",
+      "endereco": "Rua Pomba, 677 - Goiânia",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Leopoldo Chrisóstomo de Castro",
+      "endereco": "Rua Leôncio Chagas, 157 - União",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Marcelo Pontel Gomes (Jardim Vitória)",
+      "endereco": "Rua Branca, 15 - Jardim Vitória",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Maria Goretti/Ipê",
+      "endereco": "Rua Herculano Soares Rocha, 780 - Ipê",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Marivanda Baleeiro",
+      "endereco": "Rua Três Mil e Setenta e Quatro, 555 - Paulo VI",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Nazaré",
+      "endereco": "Rua Cruz de Malta, 73 - Nazaré",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Olavo Albino Correia",
+      "endereco": "Rua Papa Honório III, 8 - Ouro-Minas",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Padre Fernando de Melo",
+      "endereco": "Rua Conceição Vidigal Paulucci, 150 - Palmares",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Ribeiro de Abreu",
+      "endereco": "Rua Dianópolis, 180 - Ribeiro de Abreu",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "São Marcos",
+      "endereco": "Rua Paulista, 571 - São Marcos",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "São Paulo",
+      "endereco": "Rua Aiuruoca, 455 - São Paulo",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Vila Maria/ João Vital",
+      "endereco": "Rua Dois Mil Quatrocentos e sessenta e seis, 30 - Vitória",
+      "regional": "Nordeste"
+    },
+    {
+      "posto": "Bom Jesus",
+      "endereco": "Rua Bernardo Cisneiros, 659 - Bom Jesus",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Califórnia",
+      "endereco": "Avenida das Castanholas, 277 - Califórnia",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Saúde Califórnia",
+      "endereco": "Rua dos Violões, 570 - Califórnia",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Carlos Prates",
+      "endereco": "Rua Riachuelo, 35 - Carlos Prates",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Coqueiros",
+      "endereco": "Rua Eneida, 1583 - Coqueiros",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Dom Bosco",
+      "endereco": "Rua Olinto Magalhães, 1.939 - Ipanema",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Dom Cabral",
+      "endereco": "Praça da Comunidade, 50 - Dom Cabral",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Ermelinda",
+      "endereco": "Rua Paes de Abreu, 114 - Ermelinda",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Glória",
+      "endereco": "Rua Eneida, 955 - Glória",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Jardim Filadélfia",
+      "endereco": "Rua Caitité, 319 - Jardim Filadélfia",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Jardim Montanhês",
+      "endereco": "Rua Padre Leopoldo Pereira, 407 - Jardim Montanhês",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "João Pinheiro",
+      "endereco": "Rua Frei Luiz de Souza, 811 - João Pinheiro",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Padre Eustáquio",
+      "endereco": "Rua Carioca, 820 - Padre Eustáquio",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Pedreira Prado Lopes",
+      "endereco": "R. Escravo  Isidoro, 601 - Pedreira Prado Lopes",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Pindorama - Elza Martins ",
+      "endereco": "Rua Rutilo, 96 - Pindorama",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "Santos Anjos",
+      "endereco": "Rua Miosótis, 15B - Caiçara",
+      "regional": "Noroeste"
+    },
+    {
+      "posto": "São Cristóvão",
+      "endereco": "Rua Itapecerica, 555 - Lagoinha",
+      "regional": "Noroeste"
+    }, 
+    {   
+      "posto": "Aarão Reis",
+      "endereco": "Rua Waldomiro Lobo, 177 - Aarão Reis",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Campo Alegre",
+      "endereco": "Rua Beija Flor, 370 - Planalto",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Etelvina Carneiro",
+      "endereco": "Travessa Dois mil Quatrocentos e Dezessete, 235 - Etelvina Carneiro",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Floramar ",
+      "endereco": "Rua Igaraúnas, 15, Floramar",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Guarani",
+      "endereco": "Rua Pacaembu, 160 - Guarani",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Heliópolis",
+      "endereco": "Rua dos Beneditinos, 120 - Heliópolis",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Jardim Guanabara",
+      "endereco": "Rua Fanny Martins de Barros, 71 - Jardim Guanabara",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Jaqueline",
+      "endereco": "Rua Agenor de Paula Estrela, 1.110 - Jaqueline",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Jaqueline 2",
+      "endereco": "Rua João Pereira Lima, 50 - Jaqueline",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Jardim Felicidade",
+      "endereco": "Rua 28, 32 - Jardim Felicidade",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Felicidade 2",
+      "endereco": "Rua Sônia Braz Xavier, 60 - Jardim Felicidade",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Lajedo",
+      "endereco": "Rua Julio Ribeiro, 681 - Lajedo",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "MG 20 - Monte Azul",
+      "endereco": "Rua Padre Argemiro Moreira, 11.900 - Maria Teresa",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Novo Aarão Reis",
+      "endereco": "Avenida Detetive Eduardo Fernandes, 200 - Novo Aarão Reis",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Primeiro de Maio",
+      "endereco": "Rua Oscar Lobo Pereira, 207 - Primeiro de Maiov",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Providência",
+      "endereco": "Rua São Sebastião, 30 - Providência",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "São Bernardo",
+      "endereco": "Rua Armando Ribeiro dos Santos, 265 - São Bernardo",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "São Tomás",
+      "endereco": "Rua Santa Rosa, 54 - São Tomás",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Tupi",
+      "endereco": "Rua Jorge Amado, 91",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Zilah Spósito",
+      "endereco": "Rua Coquilhos, 85 - Zilah Spósito",
+      "regional": "Norte"
+    },
+    {   
+      "posto": "Amílcar Vianna Martins",
+      "endereco": "Rua Nelson de Senna, 90 - Cinquentenário",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Betânia",
+      "endereco": "Rua Canoas, 678 - Betânia",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Cabana",
+      "endereco": "Rua Centro Social, 536 - Cabana",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Camargos",
+      "endereco": "Rua Luiza Efigênia Silva, 413 (antigo 159) - Camargos ",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Cícero Ildefonso",
+      "endereco": "Rua Aguanil, 238 - Vista Alegre",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Conjunto Betânia",
+      "endereco": "Rua Onã, 105 - Conjunto Betânia",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Havaí",
+      "endereco": "Rua Paulo Diniz Carneiro, 742",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": " João XXIII",
+      "endereco": "Rua Toledo, 481 - Vila Oeste",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Noraldino de Lima",
+      "endereco": "Avenida Amazonas, 4373 - Nova Suissa",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Palmeiras",
+      "endereco": "Avenida Dom João VI, 1.821 - Palmeiras",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Salgado Filho",
+      "endereco": "Rua Campina Verde, 375 - Salgado Filho",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Santa Maria",
+      "endereco": "Rua das Pérolas, 123 - Santa Maria",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "São Jorge",
+      "endereco": "Rua Oscar Trompowsky, 1.698 -  Nova Granada",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Ventosav",
+      "endereco": "Rua Corcovado, 1.522 - Jardim América",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Vila Imperial",
+      "endereco": "Rua Guilherme P. Fonseca, 350 - Madre Gertrudes",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Vila Leonina",
+      "endereco": "Praça do Ensino, 240 - Alpes",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Vista Alegre",
+      "endereco": "Rua Sêneca, 9 - Nova Cintra",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Waldomiro Lobo",
+      "endereco": "Avenida Amazonas, 8.889 - Madre Gertrudes",
+      "regional": "Oeste"
+    },
+    {   
+      "posto": "Confisco",
+      "endereco": "Rua Policarpo de Magalhães Viotti, 261, esquina com a Avenida Clóvis Salgado, 710 - Bandeirantes",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Dom Orione",
+      "endereco": "Avenida Otacílio Negrão de Lima, 2.220 - São Luiz",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Itamarati",
+      "endereco": "Rua Anita Blumberg, 63 - Paquetá",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Jardim Alvorada",
+      "endereco": "Rua Engenho do Sol, 580 - Engenho Nogueira",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Ouro Preto",
+      "endereco": "Rua Jonas Jean, 77 - Ouro Preto",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Padre Joaquim Maia",
+      "endereco": "Rua Boaventura, 1.900 - Liberdade",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Padre Tiago",
+      "endereco": "Avenida João XXIII,  1.233 -  Alípio de Melo",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Santa Amélia",
+      "endereco": "Rua Antero de Quental, 185 - Santa Branca",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Santa Rosa",
+      "endereco": "Avenida Bueno Siqueira, 100 - Universitário",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Santa Rosa (anexo)",
+      "endereco": "Rua Otis, 60 - Suzana",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Santa Terezinha",
+      "endereco": "Rua Senador Virgílio Távora, 157 - Santa Terezinha",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "São Francisco",
+      "endereco": "Rua Viana do Castelo, 485 - São Francisco",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "São José",
+      "endereco": "Rua Violeta de Melo, 655 - São José",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Serrano",
+      "endereco": "Rua Tocantins, 471 - Serrano",
+      "regional": "Pampulha"
+    },
+    {   
+      "posto": "Trevo",
+      "endereco": "Rua Carlos Lacerda, 1.010 - Trevo",
+      "regional": "Pampulha"
+    },
+    {
+      "posto": "Alameda dos Ipês",
+      "endereco": "Rua  Ministro Oliveira Salazar, 1.186 - Santa Mônica",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Andradas",
+      "endereco": "Rua Mariana Amélia de Azevedo, 21 - São João Batista",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Céu Azul",
+      "endereco": "Rua Alice Marques, 187 - Céu Azul",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Copacabana",
+      "endereco": "Rua Inglaterra, 940 - Copacabana",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Jardim Comerciários",
+      "endereco": "Rua Maria da Paz Maia, 168 - Jardim Comerciários",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Jardim Comerciários (anexo)",
+      "endereco": "Rua Jair Negrão de Lima, 1058 - Novo Letícia",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Jardim Europa",
+      "endereco": "Rua Edimburgo, 140 - Jardim Europa",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Jardim Leblon",
+      "endereco": "Rua Coronel Antônio Lopes Coelho, 269 - Jardim Leblon",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Lagoa",
+      "endereco": "Rua José Sabino Maciel, 176 - Lagoa",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Mantiqueira",
+      "endereco": "Rua César Salles Barbosa, 600 - Mantiqueira",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Minas Caixa",
+      "endereco": "Rua Capitão Sérgio Pires, 226 - Minas Caixa",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Nova York",
+      "endereco": "Rua Wilton Marques Pereira, 10 - Nova York",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Paraúna",
+      "endereco": "Rua João Ferreira da Silva, 248 - Mantiqueira",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Piratininga",
+      "endereco": "Rua Cravo da Índia, 11 - Piratininga",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Rio Branco",
+      "endereco": "Rua Crisanto Muniz, 120 - Rio Branco",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Santa Mônica",
+      "endereco": "Rua dos Zapotecas, 98 - Santa Mônica",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Santo Antônio",
+      "endereco": "Rua Irineu Pinto, 255 - São João Batista",
+      "regional": "Venda Nova"
+    },
+    {
+      "posto": "Serra Verde",
+      "endereco": "Rua Guido Leão, Praça Fabrício Soares da Silva, 10 - Serra Verde",
+      "regional": "Venda Nova"
+    }
+  ]
+}
